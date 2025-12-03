@@ -1,0 +1,11 @@
+[05:51:18] [INIT] KubeJS 1902.6.2-build.73; MC 1902 forge
+[05:51:18] [INIT] Loaded plugins:
+[05:51:18] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[05:51:19] [INFO] Loaded script server_scripts:recipes.js in 0.02 s
+[05:51:19] [INFO] Loaded 1/1 KubeJS server scripts in 0.058 s
+[05:51:19] [INFO] Scripts loaded
+[05:51:19] [INFO] Initializing recipe event...
+[05:51:23] [INFO] Processing recipes...
+[05:51:23] [INFO] Found 1367 recipes in 98.69 ms
+[05:51:23] [INFO] Posted recipe events in 54.66 ms
+[05:51:23] [INFO] Added 2 recipes, removed 14 recipes, modified 0 recipes, with 0 failed recipes in 83.42 ms
